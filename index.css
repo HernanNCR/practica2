@@ -1,0 +1,94 @@
+#nb{
+    height: 170px;
+}
+p{
+    padding-left: 50px;
+    font-family:'Times New Roman', Times, serif;
+    font-size:30px;
+}
+.nove{
+    padding-right: 70px;
+}
+.nov{
+    background-color: rgb(29, 29, 29);
+    padding:10px 0px 0px 0px;
+    color: white;
+    width: 200px;
+    height: 110px;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.presentacion{
+    height: 630px;
+    padding: 60px;
+}
+
+
+.Tm{
+    padding-left: 40px;
+    padding-top: 110px;
+    height: 400px;
+    width: 500px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+}
+.imag{
+    padding: 0px;
+    display: inline-block;
+    width: 700px;
+    height: 500px;
+    float: right;
+    
+}
+
+.exp{
+    padding: 30px 30px 30px 0px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.learn{
+    width: 130px;
+    height: 60px;
+    background-color: rgb(29, 29, 29);
+    color: white;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+.objetivos{
+    height: 340px;
+    padding-left: 270px; 
+    padding-top: 100px;
+    padding-right: 200px;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+.obj1{
+    width: 300px;
+    display: inline-block;
+    padding-top: 30px;
+    font-size: 50px;
+
+    
+}
+.obj2{
+    width: 500px;
+    display: inline-block;
+    float: right;
+    font-size: 20px;
+}
+.conoce{
+    height: 340px;
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-right: 200px;
+    font-family:'Times New Roman', Times, serif;
+}
+.footer{
+    height: 400px;
+    padding-left: 40px;
+    padding-top: 40px;
+    font-family:'Times New Roman', Times, serif;
+}
+
